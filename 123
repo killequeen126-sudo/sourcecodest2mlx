@@ -7,17 +7,17 @@ Logs are automatically being saved to: 6403373529-19_07_26-log.txt
 
 game:HttpGet("https://raw.githubusercontent.com/st1mlx/bebebe/refs/heads/main/SBHub")
 
-game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784453133")
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784461365")
 
-game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784453133")
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784461365")
 
-game.HttpGetAsync(game, "https://pastefy.app/tMCakFnP/raw?t=1784453133")
+game.HttpGetAsync(game, "https://pastefy.app/tMCakFnP/raw?t=1784461365")
 
-game.HttpGet(game, "https://pastefy.app/tMCakFnP/raw?t=1784453133")
+game.HttpGet(game, "https://pastefy.app/tMCakFnP/raw?t=1784461365")
 
-game.HttpGetAsync(game, "https://pastefy.app/mxvrnABI/raw?t=1784453134")
+game.HttpGetAsync(game, "https://pastefy.app/mxvrnABI/raw?t=1784461365")
 
-game.HttpGet(game, "https://pastefy.app/mxvrnABI/raw?t=1784453134")
+game.HttpGet(game, "https://pastefy.app/mxvrnABI/raw?t=1784461365")
 
 game.HttpGetAsync(game, "https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua")
 
@@ -53,10 +53,10 @@ Response Data: {
         Connection = "keep-alive",
         ["Content-Length"] = "16",
         ["alt-svc"] = "h3=\":443\"; ma=86400",
-        Date = "Sun, 19 Jul 2026 09:25:40 GMT",
+        Date = "Sun, 19 Jul 2026 11:42:53 GMT",
         ["x-powered-by"] = "plato-server",
-        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=okFYlQSDpvOEvnvBIKXRDuq7csrJ81AHv6srbTIp8WEZ0kWk8v7HoqQrTtCvxTME8HtLTDT%2BO4JOAbaKK37eZTS3teQ%2BsfoTrgzDS9Nq%2BPKA8cX1ramSnGH0q%2BM2O0IQWMb3tjHf87pBRX2ZMN9BDfI%3D\"}]}",
-        ["CF-RAY"] = "a1d8ae1db8ca0a33-ARN",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=asDiDQfPZoZqSkSL4NeBgB0RMV1AvQmzu2gmU6%2FyMTGEUZVZwAof7O%2BoZeuZXp9gQ1%2B7fF2619S8xDoR8vg4%2B0Qv60PilXKfvby4ibHrajhzNkkZ7E7MbjoncMHq5QOr9DZoeARWGEO5CEfrAe4iWEc%3D\"}]}",
+        ["CF-RAY"] = "a1d9771dcb370a33-ARN",
         ["referrer-policy"] = "origin",
         ["access-control-allow-origin"] = "*",
         ["access-control-allow-credentials"] = "true",
@@ -85,17 +85,17 @@ Response Data: {
     Body = {
         success = true,
         data = {
-            url = "https://auth.platorelay.com/a?d=4i1vMNVNRmTty14cNglTSmde3lCnweN3mBAID8Iz9g63xGXOHBAoPOJRp4NuyGBsKl3WAQISmsyPmRt0pwMkWHanVPWHEEPNXEuTlZvlw1YRWgEPBufEa234dIyM3LYSsPKm8jyWzcJB8BME6XxOODOkQflBOZlHmlPrUGY0SZvPEHfbhHShyvF9tSHEl1z5dIiO9Ru4U3X0vRr5mgSeHzSvWDmUjX5lexbSTtNAYfq6wx2cg1ZRclM9dH4oa4wHLXy6k2hEVzAY79XHZECSiWy9Ysanks01LqdFoIROIRcMNhCr9DU6UG5VwO1BQHA48yvkkbyQdCBeGYctXPblFAHEbmXPAM7fdYZ2b0e9mL5XMl7aHsZIxNRakskNVQH7E5P73jdeUVtukLsIc8rEqxif68Bu2RadsqtpmansDn65XRux4qEWKrGAPsT3rQgrW9QajTBaMscsAbGE0LwnKZXxF2wbnMB7j60CMAFpG1Vy0GFDfbr2sI9oUH7WukX62SJ3xGFHmxIvd1ZKuLeHfoWYqI"
+            url = "https://auth.platorelay.com/a?d=2VH5NTXteXFHl3DJYvx7X0evYmaYsfWA9B9iBsMQ0kijVSZsYKer9tkeYTpfKRoLhBbgHTWGUBXZsfEDmJOXknuPZiqduoIkrOqJq4E4C4xo3uJcjvVQDGhXM8qqcmzvgilBb3rSnaVTwAgJNanbJvmkcsTMVJut2z6GY78GbQJHUdwGrTQWjPXxGcpOPr16IqDrSsnZBV4J3CsAuG7LNHxYDhTnxBiLV3aMDwTauyYPOqkMKNHqUiBVFtEvhVPG5kxivSZvM9SeaNH2ZrB39v3jHaZW3Hqai17BDEzwnPTYeTZtVe8soT5xr9LeeeC6Sp3HE9j1zAq8m2f1r8GJJwCcY0uHy1cBmznkgSE1TCkNVEEvQ8tVhUrLjsxCnAsKfKJHAsIltLPtOTS5qtWgPimuRX5ABfF76ntNnGTVNtYTd4ZrGNvRVsS5MODvu84NVTVtdXScTyPWJT6eUznXuWsteFmVZ5DhWC6RK9nUZkd0jbszoKXw1fp3LUtE5xlVy5P4dmiGPtX0i0LFtHPSlLBzCk"
         }
     },
     Headers = {
         Connection = "keep-alive",
         ["Content-Length"] = "604",
         ["alt-svc"] = "h3=\":443\"; ma=86400",
-        Date = "Sun, 19 Jul 2026 09:25:40 GMT",
+        Date = "Sun, 19 Jul 2026 11:42:53 GMT",
         ["x-powered-by"] = "plato-server",
-        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=iP1OBqbbjhDmcirziPBqALQBqnq9btuREH4LrABEelidV%2B%2BjmPLdiBMw7QCez8hlNkx0lvOrPv6fvFz%2BA%2Fu1yU72tNZHCiLbcMeitpTb6KRBjdyBdDPpxm2q6zdNBPbda6TxGajCcY95yzLsSVMa4DA%3D\"}]}",
-        ["CF-RAY"] = "a1d8ae1fb9cf0a33-ARN",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=TqIcfGsD8BcdhP0xnuQNH9AE7DcNtHgUen0C27BdU6lZYIax2AJloSy%2Bbgi%2FGS1FuP3UX4Fi46FuTYsIjdYOiQac8uxFnQa4FqwHr5VYT%2FoZXOLIa1xKCJ7Nl83%2F6OIC7yyZeHdOF%2F4Fq6X4xwonTYs%3D\"}]}",
+        ["CF-RAY"] = "a1d9771facc60a33-ARN",
         ["referrer-policy"] = "origin",
         ["access-control-allow-origin"] = "*",
         ["access-control-allow-credentials"] = "true",
@@ -107,21 +107,9 @@ Response Data: {
     }
 }
 
-game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784453194")
-
-game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784453194")
-
-game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784453254")
-
-game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784453254")
-
-game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784453315")
-
-game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784453315")
-
 http.request({
     Method = "GET",
-    Url = "https://api.platoboost.app/public/whitelist/25893?identifier=1146bfb96ddc83efc1c43eeedacf03da7a3da813a57c95bac904c8847cb4e002&key=FREE_3f77beabbc298d1b4ec26447e9865ee4&nonce=duxfuedtzhisxovl"
+    Url = "https://api.platoboost.app/public/whitelist/25893?identifier=1146bfb96ddc83efc1c43eeedacf03da7a3da813a57c95bac904c8847cb4e002&key=FREE_3f77beabbc298d1b4ec26447e9865ee4&nonce=ycmccnukmusnspeq"
 })
 
 Response Data: {
@@ -132,17 +120,17 @@ Response Data: {
         success = true,
         data = {
             valid = true,
-            hash = "a36c56fc36e92df9756a016f99c986fec3f37ea0456d7dffb34e3cc4785fa411"
+            hash = "7fc186a17865f16221acc919625d1138be8102d210749cd6355d119e3b654a3b"
         }
     },
     Headers = {
         Connection = "keep-alive",
         ["Content-Length"] = "112",
         ["alt-svc"] = "h3=\":443\"; ma=86400",
-        Date = "Sun, 19 Jul 2026 09:29:20 GMT",
+        Date = "Sun, 19 Jul 2026 11:43:01 GMT",
         ["x-powered-by"] = "plato-server",
-        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7vi%2FExuqvmbF3EsXW9gOu0Py9tqLBQlVK7q8RUWTGHp74490cSa36MtACAeZT60f78QlCA7Mow9iuUeFONTnuWjQ6MRObjdbLd2p2twzMLCXHovmec%2FkhjeF%2FuqFNHVZ%2BPJ%2BnGNVLBlD%2Ban79BrUwh4%3D\"}]}",
-        ["CF-RAY"] = "a1d8b381ae960a33-ARN",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ADEgR%2Fi%2F0a0HEHXSNG3HjFI9Wuvgb0vzKg5snp%2BtZISF5zobJOHSJT04lmrVc1%2FszdsJG6Ypy3PE6pfj6D%2Brnp51Cg4QJGHEWct%2BEx8vBramiXP%2BDswX4bgjSnIF16ERqHdDZIZDyIfE0eVDu2LDdH8%3D\"}]}",
+        ["CF-RAY"] = "a1d977527da40a33-ARN",
         ["referrer-policy"] = "origin",
         ["access-control-allow-origin"] = "*",
         ["access-control-allow-credentials"] = "true",
@@ -177,28 +165,28 @@ Response Data: {
             vanity_url_code = "st1mlx",
             name = "St1mlx the Scripter",
             features = {
-                "STAGE_CHANNEL_VIEWERS_300",
-                "MAX_FILE_SIZE_50_MB",
-                "BANNER",
-                "GUILD_TAGS",
-                "MAX_FILE_SIZE_100_MB",
+                "ANIMATED_BANNER",
+                "AUDIO_BITRATE_256_KBPS",
                 "VIDEO_QUALITY_720_60FPS",
-                "AUDIO_BITRATE_128_KBPS",
+                "MAX_FILE_SIZE_100_MB",
+                "ROLE_ICONS",
+                "TIERLESS_BOOSTING",
+                "BANNER",
+                "AUTO_MODERATION",
+                "VIDEO_BITRATE_ENHANCED",
+                "ENHANCED_ROLE_COLORS",
                 "STAGE_CHANNEL_VIEWERS_150",
                 "SOUNDBOARD",
                 "INVITE_SPLASH",
-                "VANITY_URL",
-                "AUTO_MODERATION",
-                "ROLE_ICONS",
-                "ANIMATED_BANNER",
-                "AUDIO_BITRATE_256_KBPS",
-                "ENHANCED_ROLE_COLORS",
-                "AUDIO_BITRATE_384_KBPS",
+                "GUILD_TAGS",
                 "STAGE_CHANNEL_VIEWERS_50",
-                "VIDEO_BITRATE_ENHANCED",
+                "AUDIO_BITRATE_128_KBPS",
                 "VIDEO_QUALITY_1080_60FPS",
+                "MAX_FILE_SIZE_50_MB",
                 "ANIMATED_ICON",
-                "TIERLESS_BOOSTING"
+                "STAGE_CHANNEL_VIEWERS_300",
+                "VANITY_URL",
+                "AUDIO_BITRATE_384_KBPS"
             },
             nsfw = false,
             verification_level = 1,
@@ -214,12 +202,7 @@ Response Data: {
             badge_color_primary = "#814300",
             premium_tier = 3,
             premium_subscription_count = 21,
-            game_activity = {
-                363445589247131668 = {
-                    activity_level = 2,
-                    activity_score = 1242
-                }
-            },
+            game_activity = {},
             game_application_ids = {
                 "363445589247131668"
             },
@@ -227,7 +210,7 @@ Response Data: {
             id = "1500939152290484315",
             badge_hash = "eda770f3d7806c5809adda0215c166b3",
             features = {},
-            member_count = 584,
+            member_count = 585,
             name = "St1mlx the Scripter",
             badge_color_secondary = "#a88a6c",
             traits = {
@@ -237,7 +220,7 @@ Response Data: {
                     position = 0
                 }
             },
-            online_count = 81,
+            online_count = 76,
             visibility = 1,
             tag = "STS"
         },
@@ -275,8 +258,8 @@ Response Data: {
             type = 0,
             name = "\240\159\147\162\226\148\130announcement"
         },
-        approximate_presence_count = 81,
-        approximate_member_count = 584,
+        approximate_presence_count = 76,
+        approximate_member_count = 585,
         liveliness = {
             last_updated_ts = "2026-07-18T00:35:05+00:00",
             msg_activity_bins = {
@@ -455,18 +438,18 @@ Response Data: {
     Headers = {
         Connection = "keep-alive",
         ["Content-Type"] = "application/json",
-        Date = "Sun, 19 Jul 2026 09:29:22 GMT",
-        ["Set-Cookie"] = "__sdcfduid=533daa54835411f188e2ed9a411c6ef4d360dbad79162e4532e494ea7a6a6504ab3b0c12c6a521ca771da78a7077b11f; Expires=Fri, 18-Jul-2031 09:29:22 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax",
-        ["CF-RAY"] = "a1d8b3885a310a33-ARN",
+        Date = "Sun, 19 Jul 2026 11:43:02 GMT",
+        ["Set-Cookie"] = "__sdcfduid=ffd856c6836611f19c1f7f1e3d2d5fa3bc61c0f81f98893be556bce319957d0e60bbb31c3a3256f7c3b5a96040afe67d; Expires=Fri, 18-Jul-2031 11:43:02 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax",
+        ["CF-RAY"] = "a1d977592a940a33-ARN",
         ["Transfer-Encoding"] = "chunked",
         Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
         Server = "cloudflare",
         ["alt-svc"] = "h3=\":443\"; ma=86400",
         ["x-discord-features"] = "invites",
         ["strict-transport-security"] = "max-age=31536000; includeSubDomains; preload",
-        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=ej67NVr7QUynQt1wHjhpHnig7XNChyUP%2BCRWPQQBFHj3N7mk0wfOeGsnunK8XOPLLZ1Kx0cRpdP3ye8yG%2BHwqVwhGTV4nA%2F3pyuDxO9fKpcmUABLhd76hbBFkABW\"}]}",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=N%2BxpJYWDR2XYlcxxGwn1jgqe9a4kIjx1ARF3%2Bww3dnEDOdFzeTgo4%2B7ReSZ072kXZRQRXIT%2BBWKL5Er1r%2BHxV5ZDXk7tHpbCpWeVmLd5HePIJ1arWDab3irSLnpm\"}]}",
         via = "1.1 google",
-        ["set-cookie"] = "_cfuvid=aBkupbPf15C0X4taDx5Tr989M58syhfkZm8jFE9FtKc-1784453361.976744-1.0.1.1-CC8baEhEf3PG5ojUt55ZiqRF_MMSA3CRrGYx1hHy8FE; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+        ["set-cookie"] = "_cfuvid=dKvPzMgrA3zPV1BHD0tZCQ1O9qaoautd3fU7gFQ7kk0-1784461382.586964-1.0.1.1-NRJcDaByv9wOfqSQ2Fok4ltMw7v9D2ZyFqw7xt0mbAk; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
         vary = "Accept-Encoding",
         ["Reporting-Endpoints"] = "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
         ["cf-cache-status"] = "BYPASS",
@@ -482,10 +465,6 @@ game.HttpGet(game, "https://raw.githubusercontent.com/st1mlx/bebebe/refs/heads/m
 game.HttpGetAsync(game, "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua")
 
 game.HttpGet(game, "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua")
-
-game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784453375")
-
-game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784453375")
 
 game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua")
 
@@ -521,22 +500,26 @@ Response Data: {
     Headers = {
         Connection = "keep-alive",
         ["Content-Type"] = "application/json",
-        Date = "Sun, 19 Jul 2026 09:29:40 GMT",
-        ["Set-Cookie"] = "__sdcfduid=5e462d72835411f1a0f5c768ab993fb34c4f8f5e9cf7055083f94005428da76442518555fc49894430f2bdf837e9549b; Expires=Fri, 18-Jul-2031 09:29:40 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax",
-        ["CF-RAY"] = "a1d8b3fd08f90a33-ARN",
+        Date = "Sun, 19 Jul 2026 11:43:17 GMT",
+        ["Set-Cookie"] = "__sdcfduid=087548de836711f1a0009728496eb15e9b057448eeab3ab93d59ce10e73bf5260b58b08aa4a37d61a3aac7e111e1f400; Expires=Fri, 18-Jul-2031 11:43:17 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax",
+        ["CF-RAY"] = "a1d977b3ba330a33-ARN",
         Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
         Server = "cloudflare",
         ["alt-svc"] = "h3=\":443\"; ma=86400",
         ["Content-Length"] = "48",
         ["strict-transport-security"] = "max-age=31536000; includeSubDomains; preload",
-        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=B9yBl%2BY1OWJk4N2KDfek4ZfJcNPvbJLjMPF%2BYputynLfWpjkcsa46e6LO32J6SG%2BOlF83boeE%2Fxsde0cyUPmn2kySIU2TPmbG3irzXc81uQ6qmGvm2DWJg554Af9\"}]}",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=X3HC%2F8DT7XgHvbKlZ4d8N2G7U09g6wH%2FuwmikTAWrlZmDbyjToiTvxqMI%2FLEzg1LhEZ8Wj3u3ZZ2iP2k65i%2ByjMUET3eACvthmofo8kFXMLH7URGCSXNMX83w%2FEM\"}]}",
         ["x-discord-features"] = "invites",
         via = "1.1 google",
-        ["set-cookie"] = "_cfuvid=pjKUeu5cnPRhwAmclwqYpPP10.7YxVymGimpa_f9fCQ-1784453380.6450706-1.0.1.1-gbWtZR4KtdK5scv3eNvpnA6Fe4tthKlKJ3uoY7qVevY; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+        ["set-cookie"] = "_cfuvid=p142Bovzmg_X9a.fy842orysFpZxQLYoZfdGzWsp7fY-1784461397.081209-1.0.1.1-Gtcn0LaQS8lYHCdQx2jM2OED8DYGu2Qm1C2bhya4uko; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
         ["X-Content-Type-Options"] = "nosniff",
         ["cf-cache-status"] = "BYPASS",
         ["Content-Security-Policy"] = "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
         ["Reporting-Endpoints"] = "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\""
     }
 }
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784461426")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784461426")
 
