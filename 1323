@@ -1,0 +1,1095 @@
+Http Logs from 20/07/26
+
+HttpSpy v1.3.1 updated by: Flames Hub | LLC ©️ (Original Creator: https://github.com/NotDSF)
+Change Logs:
+	Updated main.lua
+Logs are automatically being saved to: 6403373529-20_07_26-log.txt
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555626")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555626")
+
+game:HttpGet("https://raw.githubusercontent.com/st1mlx/bebebe/refs/heads/main/SBHub")
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555634")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555634")
+
+game.HttpGetAsync(game, "https://pastefy.app/tMCakFnP/raw?t=1784555635")
+
+game.HttpGet(game, "https://pastefy.app/tMCakFnP/raw?t=1784555635")
+
+game.HttpGetAsync(game, "https://pastefy.app/mxvrnABI/raw?t=1784555635")
+
+game.HttpGet(game, "https://pastefy.app/mxvrnABI/raw?t=1784555635")
+
+game.HttpGetAsync(game, "https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua")
+
+game.HttpGet(game, "https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/solar/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/craft/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/geist/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/sfsymbols/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/gravity/dist/Icons.lua")
+
+http.request({
+    Method = "GET",
+    Url = "https://api.platoboost.app/public/connectivity"
+})
+
+Response Data: {
+    StatusMessage = "OK",
+    Success = true,
+    StatusCode = 200,
+    Body = {
+        success = true
+    },
+    Headers = {
+        Connection = "keep-alive",
+        ["Content-Length"] = "16",
+        ["alt-svc"] = "h3=\":443\"; ma=86400",
+        Date = "Mon, 20 Jul 2026 13:54:02 GMT",
+        ["x-powered-by"] = "plato-server",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=InKBy3%2B8nNdbwyY%2BiO5VIsNHRXCbUr6SHB5x8%2B3%2FneRo2fwK3wCg55yKr1EQTYtu1xjpNENupHuWjumHSt8DmEx%2F0xiqOu9WgBN9XlkJUQ4GIrBs2Vqk39yiAv6G%2B9bFpmKOEdE%3D\"}]}",
+        ["CF-RAY"] = "a1e2749a6ee2e4e4-RIX",
+        ["referrer-policy"] = "origin",
+        ["access-control-allow-origin"] = "*",
+        ["access-control-allow-credentials"] = "true",
+        ["x-server-version"] = "4.0.1",
+        Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        ["cf-cache-status"] = "DYNAMIC",
+        ["Content-Type"] = "application/json; charset=utf-8",
+        Server = "cloudflare"
+    }
+}
+
+http.request({
+    Body = "{\"identifier\":\"1146bfb96ddc83efc1c43eeedacf03da7a3da813a57c95bac904c8847cb4e002\",\"service\":25893}",
+    Url = "https://api.platoboost.app/public/start",
+    Method = "POST",
+    Headers = {
+        ["User-Agent"] = "Roblox/Exploit",
+        ["Content-Type"] = "application/json"
+    }
+})
+
+Response Data: {
+    StatusMessage = "OK",
+    Success = true,
+    StatusCode = 200,
+    Body = {
+        success = true,
+        data = {
+            url = "https://auth.platorelay.com/a?d=3VMKA0dskb9IOmfR3C83q05U2YkgOtNmGrmNpdTpbi0RjKxXX5kxn1caahUaVCsPdHhzSBXbcJG6NmF4AkCPjo7cbrX4BQgWwzejHKJtdLC6cQK0SVqgvazs3AEK8XsPUOzMqR8cJTiO9epllAxILGsQpdasUtsWWlYTHcsMxWaaP2iqSsluQKd6P8IrlUbac9LrczRphA4NBPRBFvyMaGw7xDAUheF2A7HzmY9ZpVt8lXv3t4qx0CAoDbjWFoZglseHeHCxyvDbyvu9wjuJSrMS6SxYW0LYJCbQpsfMsLU4FuMPYi7szIoq18qwGpg1BVuK1yxA38fIJFEDRZdlYj4BLcZpVMBL3dBIdTFwcy0gbWObC0lZpamkVdvYqv5HlUPTApRMJtPZowAXFC2U1waiHVKmtiJr3cQl5Q4R4QGvnlzOHkApQ02YwoOytgMfHyOtgPtFljQ7p6NcltkzJJElnl2TzEUphcvYR1EgOK9bacBkxaKZmIH6f29V7JvFkVvqFTsrnzO3EAIRZXuGHhhYWr"
+        }
+    },
+    Headers = {
+        Connection = "keep-alive",
+        ["Content-Length"] = "604",
+        ["alt-svc"] = "h3=\":443\"; ma=86400",
+        Date = "Mon, 20 Jul 2026 13:54:02 GMT",
+        ["x-powered-by"] = "plato-server",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xXQqUjwWDb9TE6WLZbZACqn38K%2BOil6sq1xne68C3WR4DUIGNwYTkwMMXiiwKuMIZc%2FN7b%2BGf8Ri9x%2BgQyCOGUrzdPKAO3hRJGCFXKCilYXGouPdmT6a9ZfmL%2Fk4yBKKXWlTaAw%3D\"}]}",
+        ["CF-RAY"] = "a1e2749d0deba872-RIX",
+        ["referrer-policy"] = "origin",
+        ["access-control-allow-origin"] = "*",
+        ["access-control-allow-credentials"] = "true",
+        ["x-server-version"] = "4.0.1",
+        Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        ["cf-cache-status"] = "DYNAMIC",
+        ["Content-Type"] = "application/json; charset=utf-8",
+        Server = "cloudflare"
+    }
+}
+
+http.request({
+    Method = "GET",
+    Url = "https://api.platoboost.app/public/whitelist/25893?identifier=1146bfb96ddc83efc1c43eeedacf03da7a3da813a57c95bac904c8847cb4e002&key=FREE_cc4b6b2af9bc43ed3f240320116879b0&nonce=gaulyrfxzzkdjkbr"
+})
+
+Response Data: {
+    StatusMessage = "OK",
+    Success = true,
+    StatusCode = 200,
+    Body = {
+        success = true,
+        data = {
+            valid = true,
+            hash = "733796f6c4f9cf6450dd765680050c69d1e69816b8a065f5670eb027e63e148d"
+        }
+    },
+    Headers = {
+        Connection = "keep-alive",
+        ["Content-Length"] = "112",
+        ["alt-svc"] = "h3=\":443\"; ma=86400",
+        Date = "Mon, 20 Jul 2026 13:54:03 GMT",
+        ["x-powered-by"] = "plato-server",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=q93Bja66JyTUc7O258ufD51Rl0UV3Rrni4euCnI%2F5d0uLUdNPu90gFiOpK%2FbGUToTQpgP0gJdu1gfpdXN2gF1rczQknIMFdcNF2QjtxEoKpWg33eIzMGMn4lcH5aK9rj6L2VcVY%3D\"}]}",
+        ["CF-RAY"] = "a1e274a5e979e4cb-RIX",
+        ["referrer-policy"] = "origin",
+        ["access-control-allow-origin"] = "*",
+        ["access-control-allow-credentials"] = "true",
+        ["x-server-version"] = "4.0.1",
+        Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        ["cf-cache-status"] = "DYNAMIC",
+        ["Content-Type"] = "application/json; charset=utf-8",
+        Server = "cloudflare"
+    }
+}
+
+http.request({
+    Url = "https://discord.com/api/v10/invites/mnkqhH7c7?with_counts=true&with_expiration=true",
+    Method = "GET",
+    Headers = {
+        ["User-Agent"] = "WindUI/Example",
+        Accept = "application/json"
+    }
+})
+
+Response Data: {
+    StatusMessage = "OK",
+    Success = true,
+    StatusCode = 200,
+    Body = {
+        type = 0,
+        guild = {
+            description = "Best slap battles scripts - here",
+            id = "1500939152290484315",
+            premium_subscription_count = 21,
+            premium_tier = 3,
+            vanity_url_code = "st1mlx",
+            name = "St1mlx the Scripter",
+            features = {
+                "AUTO_MODERATION",
+                "AUDIO_BITRATE_128_KBPS",
+                "ENHANCED_ROLE_COLORS",
+                "AUDIO_BITRATE_256_KBPS",
+                "ANIMATED_BANNER",
+                "STAGE_CHANNEL_VIEWERS_150",
+                "ROLE_ICONS",
+                "SOUNDBOARD",
+                "VIDEO_QUALITY_720_60FPS",
+                "MAX_FILE_SIZE_100_MB",
+                "STAGE_CHANNEL_VIEWERS_300",
+                "VIDEO_QUALITY_1080_60FPS",
+                "VIDEO_BITRATE_ENHANCED",
+                "ANIMATED_ICON",
+                "INVITE_SPLASH",
+                "BANNER",
+                "TIERLESS_BOOSTING",
+                "VANITY_URL",
+                "MAX_FILE_SIZE_50_MB",
+                "GUILD_TAGS",
+                "AUDIO_BITRATE_384_KBPS",
+                "STAGE_CHANNEL_VIEWERS_50"
+            },
+            nsfw = false,
+            verification_level = 1,
+            icon = "de8df1f2385b8565b57306ead98e6272",
+            nsfw_level = 0
+        },
+        code = "mnkqhH7c7",
+        id = "1518624394371534888",
+        guild_id = "1500939152290484315",
+        profile = {
+            badge = 6,
+            description = "Best slap battles scripts - here",
+            badge_color_primary = "#814300",
+            premium_tier = 3,
+            premium_subscription_count = 21,
+            game_activity = {},
+            game_application_ids = {
+                "363445589247131668"
+            },
+            icon_hash = "de8df1f2385b8565b57306ead98e6272",
+            id = "1500939152290484315",
+            badge_hash = "eda770f3d7806c5809adda0215c166b3",
+            features = {},
+            member_count = 593,
+            name = "St1mlx the Scripter",
+            badge_color_secondary = "#a88a6c",
+            traits = {
+                {
+                    emoji_animated = false,
+                    label = "Best Exploits",
+                    position = 0
+                }
+            },
+            online_count = 73,
+            visibility = 1,
+            tag = "STS"
+        },
+        inviter = {
+            public_flags = 0,
+            avatar = "cb5fd5cc7211b58b92f49c28423190ce",
+            id = "1122236029462646845",
+            username = "st1mlx",
+            collectibles = {
+                nameplate = {
+                    palette = "cobalt",
+                    asset = "nameplates/zodiac/libra/",
+                    sku_id = "1447654091173007401",
+                    label = "COLLECTIBLES_ZODIAC_LIBRA_NP_A11Y"
+                }
+            },
+            clan = {
+                badge = "eda770f3d7806c5809adda0215c166b3",
+                identity_guild_id = "1500939152290484315",
+                identity_enabled = true,
+                tag = "STS"
+            },
+            global_name = "St1mlx",
+            primary_guild = {
+                badge = "eda770f3d7806c5809adda0215c166b3",
+                identity_guild_id = "1500939152290484315",
+                identity_enabled = true,
+                tag = "STS"
+            },
+            flags = 0,
+            discriminator = "0"
+        },
+        channel = {
+            id = "1503373281439383804",
+            type = 0,
+            name = "\240\159\147\162\226\148\130announcement"
+        },
+        approximate_presence_count = 73,
+        approximate_member_count = 593,
+        liveliness = {
+            last_updated_ts = "2026-07-19T01:25:21+00:00",
+            msg_activity_bins = {
+                0,
+                6,
+                12,
+                3,
+                2,
+                1,
+                4,
+                18,
+                25,
+                5,
+                4,
+                8,
+                5,
+                22,
+                36,
+                9,
+                5,
+                9,
+                3,
+                12,
+                7,
+                13,
+                30,
+                8,
+                1,
+                0,
+                0,
+                2,
+                1,
+                3,
+                14,
+                18,
+                6,
+                31,
+                9,
+                2,
+                13,
+                27,
+                21,
+                11,
+                33,
+                64,
+                6,
+                21,
+                56,
+                46,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2,
+                19,
+                8,
+                9,
+                53,
+                3,
+                24,
+                22,
+                32,
+                10,
+                4,
+                59,
+                7,
+                4,
+                80,
+                49,
+                52,
+                84,
+                14,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                6,
+                14,
+                27,
+                18,
+                5,
+                25,
+                4,
+                4,
+                30,
+                95,
+                100,
+                80,
+                72,
+                58,
+                14,
+                2,
+                8,
+                0,
+                1,
+                1,
+                13,
+                4,
+                11,
+                10,
+                4,
+                5,
+                5,
+                10,
+                22,
+                10,
+                17,
+                13,
+                12,
+                80,
+                26,
+                35,
+                23,
+                50,
+                23,
+                1,
+                6,
+                2,
+                2,
+                1,
+                0,
+                2,
+                2,
+                5,
+                18,
+                6,
+                14,
+                25,
+                27,
+                26,
+                10,
+                44,
+                25,
+                11,
+                17,
+                25,
+                12,
+                35,
+                6,
+                1,
+                3,
+                5,
+                1,
+                0,
+                4,
+                4,
+                1,
+                16,
+                25,
+                16,
+                22,
+                14,
+                6,
+                72,
+                29,
+                41,
+                16,
+                48,
+                60,
+                57,
+                86,
+                84,
+                22,
+                3
+            }
+        },
+        expires_at = "2026-07-22T14:31:10+00:00"
+    },
+    Headers = {
+        Connection = "keep-alive",
+        ["Content-Type"] = "application/json",
+        Date = "Mon, 20 Jul 2026 13:54:05 GMT",
+        ["Set-Cookie"] = "__sdcfduid=7866cf4c844211f1a0069d98fc00f6f7bde8ee5e82fab3178476fed4a4d332278f01ff203432d1501e46ca1b7609f47a; Expires=Sat, 19-Jul-2031 13:54:04 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax",
+        ["CF-RAY"] = "a1e274a8eb87614a-KJA",
+        ["Transfer-Encoding"] = "chunked",
+        Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        Server = "cloudflare",
+        ["alt-svc"] = "h3=\":443\"; ma=86400",
+        ["x-discord-features"] = "invites",
+        ["strict-transport-security"] = "max-age=31536000; includeSubDomains; preload",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pzAu%2FqSLeYRg2ufvSB8IbGmY9Sv7n7xqmING61REC7rxZ%2FygimxASlwxUkeP5UlI%2FmV6egkUNfrs7MOUicgnwG43zbzDX6s%2Bw9HkXm09J0nted%2BYJYS2WVZ9fLIv\"}]}",
+        via = "1.1 google",
+        ["set-cookie"] = "_cfuvid=quWuxQQOgGsYby2if9elRZmhYq960ZIIw0O6BniP0JA-1784555644.3116505-1.0.1.1-2RX8ATXKg9uz13G8GWtRvXgEP9Sftv7YAQOmpqcBr_I; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+        vary = "Accept-Encoding",
+        ["Reporting-Endpoints"] = "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
+        ["cf-cache-status"] = "BYPASS",
+        ["Content-Security-Policy"] = "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
+        ["X-Content-Type-Options"] = "nosniff"
+    }
+}
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555686")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555686")
+
+game.HttpGetAsync(game, "https://raw.githubusercontent.com/st1mlx/bebebe/refs/heads/main/MasteryScript")
+
+game.HttpGet(game, "https://raw.githubusercontent.com/st1mlx/bebebe/refs/heads/main/MasteryScript")
+
+game.HttpGetAsync(game, "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua")
+
+game.HttpGet(game, "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua")
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555695")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555695")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/solar/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/craft/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/geist/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/sfsymbols/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/gravity/dist/Icons.lua")
+
+http.request({
+    Url = "https://discord.com/api/v10/invites/de4jJw955?with_counts=true&with_expiration=true",
+    Method = "GET",
+    Headers = {
+        ["User-Agent"] = "WindUI/Example",
+        Accept = "application/json"
+    }
+})
+
+Response Data: {
+    StatusMessage = "Not Found",
+    Success = false,
+    StatusCode = 404,
+    Body = {
+        message = "Invite is expired.",
+        code = 50270
+    },
+    Headers = {
+        Connection = "keep-alive",
+        ["Content-Type"] = "application/json",
+        Date = "Mon, 20 Jul 2026 13:55:01 GMT",
+        ["Set-Cookie"] = "__sdcfduid=99c7f30a844211f18d431bfead05d05cafda2f09e7d9388315c2a7214d6171440cdedc95fdcc59ea7755168672da5b96; Expires=Sat, 19-Jul-2031 13:55:00 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax",
+        ["CF-RAY"] = "a1e276076aff612c-KJA",
+        Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        Server = "cloudflare",
+        ["alt-svc"] = "h3=\":443\"; ma=86400",
+        ["Content-Length"] = "48",
+        ["strict-transport-security"] = "max-age=31536000; includeSubDomains; preload",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=UboCgDlFIksIw51O05d%2FTppoiRknZ7qO37TLSpDX7AYwKVL3U45jHx%2B430lG8Ytdnf35XcLgATti19dGRJvqZ3dW7HpNKYMOu7k9MLwkdZpNTqR61wHEPtFepjdz\"}]}",
+        ["x-discord-features"] = "invites",
+        via = "1.1 google",
+        ["set-cookie"] = "_cfuvid=N1JH81WQn81l6.w9ieRZfsrPHhJH0xTREXaPzAdbjy0-1784555700.3834493-1.0.1.1-VPAhilvIy9mP6Gk39Mms3r4zQrEE3PfKiH1SuhRFcm4; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+        ["X-Content-Type-Options"] = "nosniff",
+        ["cf-cache-status"] = "BYPASS",
+        ["Content-Security-Policy"] = "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
+        ["Reporting-Endpoints"] = "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\""
+    }
+}
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555747")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555747")
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555756")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555756")
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555807")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555807")
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555816")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555816")Http Logs from 20/07/26
+
+HttpSpy v1.3.1 updated by: Flames Hub | LLC ©️ (Original Creator: https://github.com/NotDSF)
+Change Logs:
+	Updated main.lua
+Logs are automatically being saved to: 6403373529-20_07_26-log.txt
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555626")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555626")
+
+game:HttpGet("https://raw.githubusercontent.com/st1mlx/bebebe/refs/heads/main/SBHub")
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555634")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555634")
+
+game.HttpGetAsync(game, "https://pastefy.app/tMCakFnP/raw?t=1784555635")
+
+game.HttpGet(game, "https://pastefy.app/tMCakFnP/raw?t=1784555635")
+
+game.HttpGetAsync(game, "https://pastefy.app/mxvrnABI/raw?t=1784555635")
+
+game.HttpGet(game, "https://pastefy.app/mxvrnABI/raw?t=1784555635")
+
+game.HttpGetAsync(game, "https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua")
+
+game.HttpGet(game, "https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/solar/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/craft/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/geist/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/sfsymbols/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/gravity/dist/Icons.lua")
+
+http.request({
+    Method = "GET",
+    Url = "https://api.platoboost.app/public/connectivity"
+})
+
+Response Data: {
+    StatusMessage = "OK",
+    Success = true,
+    StatusCode = 200,
+    Body = {
+        success = true
+    },
+    Headers = {
+        Connection = "keep-alive",
+        ["Content-Length"] = "16",
+        ["alt-svc"] = "h3=\":443\"; ma=86400",
+        Date = "Mon, 20 Jul 2026 13:54:02 GMT",
+        ["x-powered-by"] = "plato-server",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=InKBy3%2B8nNdbwyY%2BiO5VIsNHRXCbUr6SHB5x8%2B3%2FneRo2fwK3wCg55yKr1EQTYtu1xjpNENupHuWjumHSt8DmEx%2F0xiqOu9WgBN9XlkJUQ4GIrBs2Vqk39yiAv6G%2B9bFpmKOEdE%3D\"}]}",
+        ["CF-RAY"] = "a1e2749a6ee2e4e4-RIX",
+        ["referrer-policy"] = "origin",
+        ["access-control-allow-origin"] = "*",
+        ["access-control-allow-credentials"] = "true",
+        ["x-server-version"] = "4.0.1",
+        Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        ["cf-cache-status"] = "DYNAMIC",
+        ["Content-Type"] = "application/json; charset=utf-8",
+        Server = "cloudflare"
+    }
+}
+
+http.request({
+    Body = "{\"identifier\":\"1146bfb96ddc83efc1c43eeedacf03da7a3da813a57c95bac904c8847cb4e002\",\"service\":25893}",
+    Url = "https://api.platoboost.app/public/start",
+    Method = "POST",
+    Headers = {
+        ["User-Agent"] = "Roblox/Exploit",
+        ["Content-Type"] = "application/json"
+    }
+})
+
+Response Data: {
+    StatusMessage = "OK",
+    Success = true,
+    StatusCode = 200,
+    Body = {
+        success = true,
+        data = {
+            url = "https://auth.platorelay.com/a?d=3VMKA0dskb9IOmfR3C83q05U2YkgOtNmGrmNpdTpbi0RjKxXX5kxn1caahUaVCsPdHhzSBXbcJG6NmF4AkCPjo7cbrX4BQgWwzejHKJtdLC6cQK0SVqgvazs3AEK8XsPUOzMqR8cJTiO9epllAxILGsQpdasUtsWWlYTHcsMxWaaP2iqSsluQKd6P8IrlUbac9LrczRphA4NBPRBFvyMaGw7xDAUheF2A7HzmY9ZpVt8lXv3t4qx0CAoDbjWFoZglseHeHCxyvDbyvu9wjuJSrMS6SxYW0LYJCbQpsfMsLU4FuMPYi7szIoq18qwGpg1BVuK1yxA38fIJFEDRZdlYj4BLcZpVMBL3dBIdTFwcy0gbWObC0lZpamkVdvYqv5HlUPTApRMJtPZowAXFC2U1waiHVKmtiJr3cQl5Q4R4QGvnlzOHkApQ02YwoOytgMfHyOtgPtFljQ7p6NcltkzJJElnl2TzEUphcvYR1EgOK9bacBkxaKZmIH6f29V7JvFkVvqFTsrnzO3EAIRZXuGHhhYWr"
+        }
+    },
+    Headers = {
+        Connection = "keep-alive",
+        ["Content-Length"] = "604",
+        ["alt-svc"] = "h3=\":443\"; ma=86400",
+        Date = "Mon, 20 Jul 2026 13:54:02 GMT",
+        ["x-powered-by"] = "plato-server",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xXQqUjwWDb9TE6WLZbZACqn38K%2BOil6sq1xne68C3WR4DUIGNwYTkwMMXiiwKuMIZc%2FN7b%2BGf8Ri9x%2BgQyCOGUrzdPKAO3hRJGCFXKCilYXGouPdmT6a9ZfmL%2Fk4yBKKXWlTaAw%3D\"}]}",
+        ["CF-RAY"] = "a1e2749d0deba872-RIX",
+        ["referrer-policy"] = "origin",
+        ["access-control-allow-origin"] = "*",
+        ["access-control-allow-credentials"] = "true",
+        ["x-server-version"] = "4.0.1",
+        Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        ["cf-cache-status"] = "DYNAMIC",
+        ["Content-Type"] = "application/json; charset=utf-8",
+        Server = "cloudflare"
+    }
+}
+
+http.request({
+    Method = "GET",
+    Url = "https://api.platoboost.app/public/whitelist/25893?identifier=1146bfb96ddc83efc1c43eeedacf03da7a3da813a57c95bac904c8847cb4e002&key=FREE_cc4b6b2af9bc43ed3f240320116879b0&nonce=gaulyrfxzzkdjkbr"
+})
+
+Response Data: {
+    StatusMessage = "OK",
+    Success = true,
+    StatusCode = 200,
+    Body = {
+        success = true,
+        data = {
+            valid = true,
+            hash = "733796f6c4f9cf6450dd765680050c69d1e69816b8a065f5670eb027e63e148d"
+        }
+    },
+    Headers = {
+        Connection = "keep-alive",
+        ["Content-Length"] = "112",
+        ["alt-svc"] = "h3=\":443\"; ma=86400",
+        Date = "Mon, 20 Jul 2026 13:54:03 GMT",
+        ["x-powered-by"] = "plato-server",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=q93Bja66JyTUc7O258ufD51Rl0UV3Rrni4euCnI%2F5d0uLUdNPu90gFiOpK%2FbGUToTQpgP0gJdu1gfpdXN2gF1rczQknIMFdcNF2QjtxEoKpWg33eIzMGMn4lcH5aK9rj6L2VcVY%3D\"}]}",
+        ["CF-RAY"] = "a1e274a5e979e4cb-RIX",
+        ["referrer-policy"] = "origin",
+        ["access-control-allow-origin"] = "*",
+        ["access-control-allow-credentials"] = "true",
+        ["x-server-version"] = "4.0.1",
+        Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        ["cf-cache-status"] = "DYNAMIC",
+        ["Content-Type"] = "application/json; charset=utf-8",
+        Server = "cloudflare"
+    }
+}
+
+http.request({
+    Url = "https://discord.com/api/v10/invites/mnkqhH7c7?with_counts=true&with_expiration=true",
+    Method = "GET",
+    Headers = {
+        ["User-Agent"] = "WindUI/Example",
+        Accept = "application/json"
+    }
+})
+
+Response Data: {
+    StatusMessage = "OK",
+    Success = true,
+    StatusCode = 200,
+    Body = {
+        type = 0,
+        guild = {
+            description = "Best slap battles scripts - here",
+            id = "1500939152290484315",
+            premium_subscription_count = 21,
+            premium_tier = 3,
+            vanity_url_code = "st1mlx",
+            name = "St1mlx the Scripter",
+            features = {
+                "AUTO_MODERATION",
+                "AUDIO_BITRATE_128_KBPS",
+                "ENHANCED_ROLE_COLORS",
+                "AUDIO_BITRATE_256_KBPS",
+                "ANIMATED_BANNER",
+                "STAGE_CHANNEL_VIEWERS_150",
+                "ROLE_ICONS",
+                "SOUNDBOARD",
+                "VIDEO_QUALITY_720_60FPS",
+                "MAX_FILE_SIZE_100_MB",
+                "STAGE_CHANNEL_VIEWERS_300",
+                "VIDEO_QUALITY_1080_60FPS",
+                "VIDEO_BITRATE_ENHANCED",
+                "ANIMATED_ICON",
+                "INVITE_SPLASH",
+                "BANNER",
+                "TIERLESS_BOOSTING",
+                "VANITY_URL",
+                "MAX_FILE_SIZE_50_MB",
+                "GUILD_TAGS",
+                "AUDIO_BITRATE_384_KBPS",
+                "STAGE_CHANNEL_VIEWERS_50"
+            },
+            nsfw = false,
+            verification_level = 1,
+            icon = "de8df1f2385b8565b57306ead98e6272",
+            nsfw_level = 0
+        },
+        code = "mnkqhH7c7",
+        id = "1518624394371534888",
+        guild_id = "1500939152290484315",
+        profile = {
+            badge = 6,
+            description = "Best slap battles scripts - here",
+            badge_color_primary = "#814300",
+            premium_tier = 3,
+            premium_subscription_count = 21,
+            game_activity = {},
+            game_application_ids = {
+                "363445589247131668"
+            },
+            icon_hash = "de8df1f2385b8565b57306ead98e6272",
+            id = "1500939152290484315",
+            badge_hash = "eda770f3d7806c5809adda0215c166b3",
+            features = {},
+            member_count = 593,
+            name = "St1mlx the Scripter",
+            badge_color_secondary = "#a88a6c",
+            traits = {
+                {
+                    emoji_animated = false,
+                    label = "Best Exploits",
+                    position = 0
+                }
+            },
+            online_count = 73,
+            visibility = 1,
+            tag = "STS"
+        },
+        inviter = {
+            public_flags = 0,
+            avatar = "cb5fd5cc7211b58b92f49c28423190ce",
+            id = "1122236029462646845",
+            username = "st1mlx",
+            collectibles = {
+                nameplate = {
+                    palette = "cobalt",
+                    asset = "nameplates/zodiac/libra/",
+                    sku_id = "1447654091173007401",
+                    label = "COLLECTIBLES_ZODIAC_LIBRA_NP_A11Y"
+                }
+            },
+            clan = {
+                badge = "eda770f3d7806c5809adda0215c166b3",
+                identity_guild_id = "1500939152290484315",
+                identity_enabled = true,
+                tag = "STS"
+            },
+            global_name = "St1mlx",
+            primary_guild = {
+                badge = "eda770f3d7806c5809adda0215c166b3",
+                identity_guild_id = "1500939152290484315",
+                identity_enabled = true,
+                tag = "STS"
+            },
+            flags = 0,
+            discriminator = "0"
+        },
+        channel = {
+            id = "1503373281439383804",
+            type = 0,
+            name = "\240\159\147\162\226\148\130announcement"
+        },
+        approximate_presence_count = 73,
+        approximate_member_count = 593,
+        liveliness = {
+            last_updated_ts = "2026-07-19T01:25:21+00:00",
+            msg_activity_bins = {
+                0,
+                6,
+                12,
+                3,
+                2,
+                1,
+                4,
+                18,
+                25,
+                5,
+                4,
+                8,
+                5,
+                22,
+                36,
+                9,
+                5,
+                9,
+                3,
+                12,
+                7,
+                13,
+                30,
+                8,
+                1,
+                0,
+                0,
+                2,
+                1,
+                3,
+                14,
+                18,
+                6,
+                31,
+                9,
+                2,
+                13,
+                27,
+                21,
+                11,
+                33,
+                64,
+                6,
+                21,
+                56,
+                46,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2,
+                19,
+                8,
+                9,
+                53,
+                3,
+                24,
+                22,
+                32,
+                10,
+                4,
+                59,
+                7,
+                4,
+                80,
+                49,
+                52,
+                84,
+                14,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                6,
+                14,
+                27,
+                18,
+                5,
+                25,
+                4,
+                4,
+                30,
+                95,
+                100,
+                80,
+                72,
+                58,
+                14,
+                2,
+                8,
+                0,
+                1,
+                1,
+                13,
+                4,
+                11,
+                10,
+                4,
+                5,
+                5,
+                10,
+                22,
+                10,
+                17,
+                13,
+                12,
+                80,
+                26,
+                35,
+                23,
+                50,
+                23,
+                1,
+                6,
+                2,
+                2,
+                1,
+                0,
+                2,
+                2,
+                5,
+                18,
+                6,
+                14,
+                25,
+                27,
+                26,
+                10,
+                44,
+                25,
+                11,
+                17,
+                25,
+                12,
+                35,
+                6,
+                1,
+                3,
+                5,
+                1,
+                0,
+                4,
+                4,
+                1,
+                16,
+                25,
+                16,
+                22,
+                14,
+                6,
+                72,
+                29,
+                41,
+                16,
+                48,
+                60,
+                57,
+                86,
+                84,
+                22,
+                3
+            }
+        },
+        expires_at = "2026-07-22T14:31:10+00:00"
+    },
+    Headers = {
+        Connection = "keep-alive",
+        ["Content-Type"] = "application/json",
+        Date = "Mon, 20 Jul 2026 13:54:05 GMT",
+        ["Set-Cookie"] = "__sdcfduid=7866cf4c844211f1a0069d98fc00f6f7bde8ee5e82fab3178476fed4a4d332278f01ff203432d1501e46ca1b7609f47a; Expires=Sat, 19-Jul-2031 13:54:04 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax",
+        ["CF-RAY"] = "a1e274a8eb87614a-KJA",
+        ["Transfer-Encoding"] = "chunked",
+        Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        Server = "cloudflare",
+        ["alt-svc"] = "h3=\":443\"; ma=86400",
+        ["x-discord-features"] = "invites",
+        ["strict-transport-security"] = "max-age=31536000; includeSubDomains; preload",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=pzAu%2FqSLeYRg2ufvSB8IbGmY9Sv7n7xqmING61REC7rxZ%2FygimxASlwxUkeP5UlI%2FmV6egkUNfrs7MOUicgnwG43zbzDX6s%2Bw9HkXm09J0nted%2BYJYS2WVZ9fLIv\"}]}",
+        via = "1.1 google",
+        ["set-cookie"] = "_cfuvid=quWuxQQOgGsYby2if9elRZmhYq960ZIIw0O6BniP0JA-1784555644.3116505-1.0.1.1-2RX8ATXKg9uz13G8GWtRvXgEP9Sftv7YAQOmpqcBr_I; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+        vary = "Accept-Encoding",
+        ["Reporting-Endpoints"] = "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\"",
+        ["cf-cache-status"] = "BYPASS",
+        ["Content-Security-Policy"] = "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
+        ["X-Content-Type-Options"] = "nosniff"
+    }
+}
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555686")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555686")
+
+game.HttpGetAsync(game, "https://raw.githubusercontent.com/st1mlx/bebebe/refs/heads/main/MasteryScript")
+
+game.HttpGet(game, "https://raw.githubusercontent.com/st1mlx/bebebe/refs/heads/main/MasteryScript")
+
+game.HttpGetAsync(game, "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua")
+
+game.HttpGet(game, "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua")
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555695")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555695")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/main/Main-v2.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/lucide/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/solar/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/craft/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/geist/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/sfsymbols/dist/Icons.lua")
+
+game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/refs/heads/main/gravity/dist/Icons.lua")
+
+http.request({
+    Url = "https://discord.com/api/v10/invites/de4jJw955?with_counts=true&with_expiration=true",
+    Method = "GET",
+    Headers = {
+        ["User-Agent"] = "WindUI/Example",
+        Accept = "application/json"
+    }
+})
+
+Response Data: {
+    StatusMessage = "Not Found",
+    Success = false,
+    StatusCode = 404,
+    Body = {
+        message = "Invite is expired.",
+        code = 50270
+    },
+    Headers = {
+        Connection = "keep-alive",
+        ["Content-Type"] = "application/json",
+        Date = "Mon, 20 Jul 2026 13:55:01 GMT",
+        ["Set-Cookie"] = "__sdcfduid=99c7f30a844211f18d431bfead05d05cafda2f09e7d9388315c2a7214d6171440cdedc95fdcc59ea7755168672da5b96; Expires=Sat, 19-Jul-2031 13:55:00 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax",
+        ["CF-RAY"] = "a1e276076aff612c-KJA",
+        Nel = "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+        Server = "cloudflare",
+        ["alt-svc"] = "h3=\":443\"; ma=86400",
+        ["Content-Length"] = "48",
+        ["strict-transport-security"] = "max-age=31536000; includeSubDomains; preload",
+        ["Report-To"] = "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=UboCgDlFIksIw51O05d%2FTppoiRknZ7qO37TLSpDX7AYwKVL3U45jHx%2B430lG8Ytdnf35XcLgATti19dGRJvqZ3dW7HpNKYMOu7k9MLwkdZpNTqR61wHEPtFepjdz\"}]}",
+        ["x-discord-features"] = "invites",
+        via = "1.1 google",
+        ["set-cookie"] = "_cfuvid=N1JH81WQn81l6.w9ieRZfsrPHhJH0xTREXaPzAdbjy0-1784555700.3834493-1.0.1.1-VPAhilvIy9mP6Gk39Mms3r4zQrEE3PfKiH1SuhRFcm4; HttpOnly; SameSite=None; Secure; Path=/; Domain=discord.com",
+        ["X-Content-Type-Options"] = "nosniff",
+        ["cf-cache-status"] = "BYPASS",
+        ["Content-Security-Policy"] = "frame-ancestors 'none'; default-src https://o64374.ingest.sentry.io; report-to csp-sentry; report-uri https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable",
+        ["Reporting-Endpoints"] = "csp-sentry=\"https://o64374.ingest.sentry.io/api/5441894/security/?sentry_key=8fbbce30bf5244ec9429546beef21870&sentry_environment=stable\""
+    }
+}
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555747")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555747")
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555756")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555756")
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555807")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555807")
+
+game.HttpGetAsync(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555816")
+
+game.HttpGet(game, "https://pastefy.app/iBLKH58Z/raw?t=1784555816"
